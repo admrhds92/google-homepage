@@ -1,0 +1,1 @@
+This repository is me following alone the odin projects guide to cloning the google homepage.
